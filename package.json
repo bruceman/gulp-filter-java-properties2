@@ -1,0 +1,25 @@
+{
+  "name": "gulp-filter-java-properties2",
+  "version": "0.1.0",
+  "description": "Gulp wrapper for the filter-java-properties Node pacakge",
+  "keywords": [
+    "gulpplugin",
+    "filter",
+    "resources",
+    "properties"
+  ],
+  "author": "bruceman",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bruceman/gulp-filter-java-properties2.git"
+  },
+  "dependencies": {
+    "filter-java-properties": "^0.3.0",
+    "gulp-util": "~3.0.1",
+    "through2": "~0.6.3"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
